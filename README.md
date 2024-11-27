@@ -1,5 +1,16 @@
-## Hi there 👋
+## Hi, I'm Brian 👋
 
+I'm a current Computer Science student at the University of Virginia, passionate about leveraging technologies to influence global health outcomes.
+
+#### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-choe-1b98502aa)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brichoe4@gmail.com)
+
+#### Languages
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 <!--
 **brichoe/brichoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
