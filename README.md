@@ -1,6 +1,6 @@
 ## Hi, I'm Brian 👋
 
-I'm a current Computer Science student at the University of Virginia, passionate about leveraging technologies to influence global health outcomes.
+I'm a current 3rd year Computer Science student at the University of Virginia.
 
 #### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-choe-1b98502aa)
